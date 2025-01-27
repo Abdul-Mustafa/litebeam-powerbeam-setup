@@ -1,5 +1,6 @@
 <details>
 <summary>
+
   # Setting Up Internet Connection Using LiteBeams and PowerBeams
 </summary>
 To connect the internet from a landline and extend it using **LiteBeams** and **PowerBeams**, you are essentially creating a wireless point-to-point (P2P) or point-to-multipoint (P2MP) network. This type of setup is often used for long-distance wireless internet connections. Here’s an easy-to-follow guide with the essential knowledge and steps:
